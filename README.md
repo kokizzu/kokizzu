@@ -4,7 +4,6 @@
 <img alt="piplup" align="right" width="125px" src="https://www.gravatar.com/avatar/8f130b2fa9903fca10a10b31ed3f7b94?s=256&d=identicon&r=PG">
 ![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
 
-
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Against Golang Interface{Method}-abuse/pollution](https://kokizzu.blogspot.com/2021/09/fight-against-golang-interfacemethod.html)
@@ -13,7 +12,3 @@
 - [You don&#39;t need Kubernetes](https://kokizzu.blogspot.com/2021/08/you-dont-need-kubernetes.html)
 - [Dockerfile Template &lpar;React, Express, Vue, Nest, Angular, GoFiber, Svelte, Django, Laravel, ASP.NET Core, Kotlin, Deno&rpar;](https://kokizzu.blogspot.com/2021/08/dockerfile-template-react-express-vue.html)
 <!-- BLOG-POST-LIST:END -->
-
-### 📊 Weekly Coding Activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
