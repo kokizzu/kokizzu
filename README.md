@@ -1,16 +1,15 @@
-# github-profile-summary-cards-example
+![profile-details](profile-summary-card-output/nord_dark/0-profile-details.svg)
+![stats](profile-summary-card-output/nord_dark/3-stats.svg)
+![most-commit-language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![stats](profile-summary-card-output/nord_dark/3-stats.svg)
+![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<img alt="piplup" align="right" width="125px" src="https://www.gravatar.com/avatar/8f130b2fa9903fca10a10b31ed3f7b94?s=256&d=identicon&r=PG">
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+### :pencil2: Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### 📊 Weekly Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
