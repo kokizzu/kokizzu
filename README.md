@@ -8,7 +8,7 @@
 
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Databases with Automatic Rebalance](https://kokizzu.blogspot.com/2021/11/databases-with-automatic-rebalance.html)
+- [Databases with Automatic Rebalance Benchmark](https://kokizzu.blogspot.com/2021/11/databases-with-automatic-rebalance.html)
 - [Against Golang Interface{Method}-abuse/pollution](https://kokizzu.blogspot.com/2021/09/fight-against-golang-interfacemethod.html)
 - [Remove Secrets from git Repository](https://kokizzu.blogspot.com/2021/09/remove-secrets-from-git-repository.html)
 - [Database Patterns of Microservices](https://kokizzu.blogspot.com/2021/08/database-patterns-of-microservices.html)
