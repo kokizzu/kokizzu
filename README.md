@@ -8,6 +8,7 @@
 
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Databases with Automatic Rebalance](https://kokizzu.blogspot.com/2021/11/databases-with-automatic-rebalance.html)
 - [Against Golang Interface{Method}-abuse/pollution](https://kokizzu.blogspot.com/2021/09/fight-against-golang-interfacemethod.html)
 - [Remove Secrets from git Repository](https://kokizzu.blogspot.com/2021/09/remove-secrets-from-git-repository.html)
 - [Database Patterns of Microservices](https://kokizzu.blogspot.com/2021/08/database-patterns-of-microservices.html)
@@ -27,5 +28,4 @@
 - [Machine Learning Toolkits](https://kokizzu.blogspot.com/2020/10/machine-learning-toolkits.html)
 - [Cleanup git and docker Disk Usage](https://kokizzu.blogspot.com/2020/10/cleanup-git-and-docker-disk-usage.html)
 - [Implement CI in Gitlab](https://kokizzu.blogspot.com/2020/09/implement-ci-in-gitlab.html)
-- [Javascript ES6 Loops, Map, and Spread Operator](https://kokizzu.blogspot.com/2020/08/javascript-es6-loops-map-and-spread.html)
 <!-- BLOG-POST-LIST:END -->
