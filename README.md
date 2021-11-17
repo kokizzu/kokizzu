@@ -6,6 +6,7 @@
 
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alternative Strategy for Dependency Injection &lpar;lambda-returning vs function-pointer&rpar;](https://kokizzu.blogspot.com/2021/11/alternative-strategy-for-dependency.html)
 - [Databases with Automatic Rebalance Benchmark](https://kokizzu.blogspot.com/2021/11/databases-with-automatic-rebalance.html)
 - [Against Golang Interface{Method}-abuse/pollution](https://kokizzu.blogspot.com/2021/09/fight-against-golang-interfacemethod.html)
 - [Remove Secrets from git Repository](https://kokizzu.blogspot.com/2021/09/remove-secrets-from-git-repository.html)
@@ -25,7 +26,6 @@
 - [Tarantool: In-memory SQL Hybrid Database](https://kokizzu.blogspot.com/2020/11/tarantool-in-memory-sql-hybrid-database.html)
 - [Machine Learning Toolkits](https://kokizzu.blogspot.com/2020/10/machine-learning-toolkits.html)
 - [Cleanup git and docker Disk Usage](https://kokizzu.blogspot.com/2020/10/cleanup-git-and-docker-disk-usage.html)
-- [Implement CI in Gitlab](https://kokizzu.blogspot.com/2020/09/implement-ci-in-gitlab.html)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
