@@ -8,7 +8,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Kafka vs RedPanda Benchmark &lpar;also Tarantool and Clickhouse as queue&rpar;](https://kokizzu.blogspot.com/2021/11/kafka-vs-redpanda-benchmark.html)
 - [Alternative Strategy for Dependency Injection &lpar;lambda-returning vs function-pointer&rpar;](https://kokizzu.blogspot.com/2021/11/alternative-strategy-for-dependency.html)
-- [Databases with Automatic Rebalance Benchmark](https://kokizzu.blogspot.com/2021/11/databases-with-automatic-rebalance.html)
+- [Databases with Automatic Rebalance Benchmark &lpar;TIDB vs YugabyteDB vs CockroachDB&rpar;](https://kokizzu.blogspot.com/2021/11/databases-with-automatic-rebalance.html)
 - [Against Golang Interface{Method}-abuse/pollution](https://kokizzu.blogspot.com/2021/09/fight-against-golang-interfacemethod.html)
 - [Remove Secrets from git Repository](https://kokizzu.blogspot.com/2021/09/remove-secrets-from-git-repository.html)
 - [Database Patterns of Microservices](https://kokizzu.blogspot.com/2021/08/database-patterns-of-microservices.html)
