@@ -6,7 +6,7 @@
 
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Coolest PaaS I&#39;ve ever use: Jelastic](https://kokizzu.blogspot.com/2021/12/coolest-paas-ive-ever-use-jelastic.html)
+- [Coolest PaaS/IaaS I&#39;ve ever use: Jelastic](https://kokizzu.blogspot.com/2021/12/coolest-paas-ive-ever-use-jelastic.html)
 - [Kafka vs RedPanda Benchmark &lpar;also Tarantool and Clickhouse as queue&rpar;](https://kokizzu.blogspot.com/2021/11/kafka-vs-redpanda-benchmark.html)
 - [Alternative Strategy for Dependency Injection &lpar;lambda-returning vs function-pointer&rpar;](https://kokizzu.blogspot.com/2021/11/alternative-strategy-for-dependency.html)
 - [Databases with Automatic Rebalance Benchmark &lpar;TIDB vs YugabyteDB vs CockroachDB&rpar;](https://kokizzu.blogspot.com/2021/11/databases-with-automatic-rebalance.html)
