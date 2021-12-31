@@ -6,6 +6,7 @@
 
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [String Associative Array and CombSort Benchmark 2021 Edition](https://kokizzu.blogspot.com/2021/12/string-associative-array-and-combsort.html)
 - [Storage Service with CDN](https://kokizzu.blogspot.com/2021/12/storage-service-with-cdn.html)
 - [Coolest PaaS/IaaS I&#39;ve ever use: Jelastic](https://kokizzu.blogspot.com/2021/12/coolest-paas-ive-ever-use-jelastic.html)
 - [Kafka vs RedPanda Benchmark &lpar;also Tarantool and Clickhouse as queue&rpar;](https://kokizzu.blogspot.com/2021/11/kafka-vs-redpanda-benchmark.html)
@@ -25,7 +26,6 @@
 - [GOPS: Trace your Golang service with ease](https://kokizzu.blogspot.com/2021/01/gops-trace-your-golang-service-with-ease.html)
 - [Learn Python in X minutes](https://kokizzu.blogspot.com/2021/01/learn-python-in-x-minutes.html)
 - [Golang Serialization Benchmark 2020 Edition](https://kokizzu.blogspot.com/2020/12/golang-serialization-benchmark-2020.html)
-- [String Associative Array and CombSort Benchmark 2020 Edition](https://kokizzu.blogspot.com/2020/12/string-associative-array-and-combsort.html)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
