@@ -6,6 +6,7 @@
 
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Kubernetes](https://kokizzu.blogspot.com/2022/01/getting-started-with-kubernetes.html)
 - [Easy minimal Ubuntu VM on any OS](https://kokizzu.blogspot.com/2022/01/easy-minimal-ubuntu-vm.html)
 - [String Associative Array and CombSort Benchmark 2021 Edition](https://kokizzu.blogspot.com/2021/12/string-associative-array-and-combsort.html)
 - [Storage Service with CDN](https://kokizzu.blogspot.com/2021/12/storage-service-with-cdn.html)
@@ -25,7 +26,6 @@
 - [Kubernetes IDE/GUI](https://kokizzu.blogspot.com/2021/03/kubernetes-gui.html)
 - [Pyroscope: Continuous Tracing in Go, Python, or Ruby](https://kokizzu.blogspot.com/2021/03/pyroscope-continuous-tracing-in-go.html)
 - [GOPS: Trace your Golang service with ease](https://kokizzu.blogspot.com/2021/01/gops-trace-your-golang-service-with-ease.html)
-- [Learn Python in X minutes](https://kokizzu.blogspot.com/2021/01/learn-python-in-x-minutes.html)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
