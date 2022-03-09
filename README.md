@@ -10,7 +10,7 @@
 - [Getting started with Kubernetes](https://kokizzu.blogspot.com/2022/01/getting-started-with-kubernetes.html)
 - [Easy minimal Ubuntu VM on any OS](https://kokizzu.blogspot.com/2022/01/easy-minimal-ubuntu-vm.html)
 - [String Associative Array and CombSort Benchmark 2021 Edition](https://kokizzu.blogspot.com/2021/12/string-associative-array-and-combsort.html)
-- [Storage Service with CDN](https://kokizzu.blogspot.com/2021/12/storage-service-with-cdn.html)
+- [Object Storage Service with CDN](https://kokizzu.blogspot.com/2021/12/storage-service-with-cdn.html)
 - [Coolest PaaS/IaaS I&#39;ve ever use: Jelastic](https://kokizzu.blogspot.com/2021/12/coolest-paas-ive-ever-use-jelastic.html)
 - [Kafka vs RedPanda Benchmark &lpar;also Tarantool and Clickhouse as queue&rpar;](https://kokizzu.blogspot.com/2021/11/kafka-vs-redpanda-benchmark.html)
 - [Alternative Strategy for Dependency Injection &lpar;lambda-returning vs function-pointer&rpar;](https://kokizzu.blogspot.com/2021/11/alternative-strategy-for-dependency.html)
