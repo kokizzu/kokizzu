@@ -6,6 +6,7 @@
 
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Cassandra](https://kokizzu.blogspot.com/2022/03/getting-started-with-cassandra.html)
 - [C# vs Go in Simple Benchmark](https://kokizzu.blogspot.com/2022/02/c-vs-go-in-simple-benchmark.html)
 - [Getting started with Kubernetes](https://kokizzu.blogspot.com/2022/01/getting-started-with-kubernetes.html)
 - [Easy minimal Ubuntu VM on any OS](https://kokizzu.blogspot.com/2022/01/easy-minimal-ubuntu-vm.html)
@@ -25,7 +26,6 @@
 - [Easy Tarantool and ClickHouse Replication Setup](https://kokizzu.blogspot.com/2021/05/easy-tarantool-clickhouse-replication-setup.html)
 - [Benchmarking Disks on VPS](https://kokizzu.blogspot.com/2021/05/benchmarking-disks-on-vps.html)
 - [Kubernetes IDE/GUI](https://kokizzu.blogspot.com/2021/03/kubernetes-gui.html)
-- [Pyroscope: Continuous Tracing in Go, Python, or Ruby](https://kokizzu.blogspot.com/2021/03/pyroscope-continuous-tracing-in-go.html)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
