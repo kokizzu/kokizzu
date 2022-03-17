@@ -6,7 +6,7 @@
 
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Cassandra](https://kokizzu.blogspot.com/2022/03/getting-started-with-cassandra.html)
+- [Getting started with Cassandra or ScyllaDB](https://kokizzu.blogspot.com/2022/03/getting-started-with-cassandra.html)
 - [C# vs Go in Simple Benchmark](https://kokizzu.blogspot.com/2022/02/c-vs-go-in-simple-benchmark.html)
 - [Getting started with Kubernetes](https://kokizzu.blogspot.com/2022/01/getting-started-with-kubernetes.html)
 - [Easy minimal Ubuntu VM on any OS](https://kokizzu.blogspot.com/2022/01/easy-minimal-ubuntu-vm.html)
