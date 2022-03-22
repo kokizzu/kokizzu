@@ -7,7 +7,9 @@
 ![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
 
 # :pencil2: Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [1 million Go goroutine vs C# task](https://kokizzu.blogspot.com/2022/03/1-million-go-goroutine-vs-c-task.html)
 - [Getting started with Cassandra or ScyllaDB](https://kokizzu.blogspot.com/2022/03/getting-started-with-cassandra.html)
 - [C# vs Go in Simple Benchmark](https://kokizzu.blogspot.com/2022/02/c-vs-go-in-simple-benchmark.html)
@@ -28,16 +30,19 @@
 - [Prime Benchmark](https://kokizzu.blogspot.com/2021/07/prime-benchmark.html)
 - [Easy Tarantool and ClickHouse Replication Setup](https://kokizzu.blogspot.com/2021/05/easy-tarantool-clickhouse-replication-setup.html)
 - [Benchmarking Disks on VPS](https://kokizzu.blogspot.com/2021/05/benchmarking-disks-on-vps.html)
+
 <!-- BLOG-POST-LIST:END -->
 
 # :four_leaf_clover: Profile
 
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kokizzu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">Kiswono Prayogo</a></div>
+<a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 # :sparkling_heart: Contributions
+
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
@@ -46,6 +51,7 @@
 </p>
 
 # :notes: Metrics
+
 <p align="center">
 	<img width="625em" src="./github-metrics.svg" />
 </p>
