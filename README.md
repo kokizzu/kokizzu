@@ -30,7 +30,11 @@
 - [Benchmarking Disks on VPS](https://kokizzu.blogspot.com/2021/05/benchmarking-disks-on-vps.html)
 <!-- BLOG-POST-LIST:END -->
 
+# :four_leaf_clover: Profile
+
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kokizzu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">Kiswono Prayogo</a></div>
 
 # :sparkling_heart: Contributions
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
