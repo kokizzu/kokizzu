@@ -35,19 +35,17 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-# :notes: Metrics
-
-<p align="center">
-	<img width="625em" src="./github-metrics.svg" />
-</p>
-
-# :dizzy: Statistics
+# :dizzy: Metrics and Statistics
 
 ![profile-details](profile-summary-card-output/nord_dark/0-profile-details.svg)
 ![stats](profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 ![most-commit-language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 ![stats](profile-summary-card-output/nord_dark/3-stats.svg)
 ![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
+
+<p align="center">
+	<img width="625em" src="./github-metrics.svg" />
+</p>
 
 # :four_leaf_clover: Profile
 
