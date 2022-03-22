@@ -35,13 +35,11 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-# :four_leaf_clover: Profile
+# :notes: Metrics
 
-<a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-<a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<p align="center">
+	<img width="625em" src="./github-metrics.svg" />
+</p>
 
 # :dizzy: Statistics
 
@@ -51,8 +49,10 @@
 ![stats](profile-summary-card-output/nord_dark/3-stats.svg)
 ![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
 
-# :notes: Metrics
+# :four_leaf_clover: Profile
 
-<p align="center">
-	<img width="625em" src="./github-metrics.svg" />
-</p>
+<a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
