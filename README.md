@@ -1,12 +1,10 @@
-
 # :sparkling_heart: Contributions
 
-<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
+<a href="./profile-3d-contrib/profile-night-green.svg">
+    <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+</a>
+
+Isometric view of contributions in the last year. Languages pie is based on recent commits
 
 # :pencil2: Latest Blog Posts
 
@@ -45,7 +43,7 @@
 
 <img width="625em" src="./github-metrics.svg" />
 
-# :four_leaf_clover: Profile
+# :four_leaf_clover: External Profiles
 
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
