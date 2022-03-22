@@ -43,9 +43,7 @@
 ![stats](profile-summary-card-output/nord_dark/3-stats.svg)
 ![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
 
-<p align="center">
-	<img width="625em" src="./github-metrics.svg" />
-</p>
+<img width="625em" src="./github-metrics.svg" />
 
 # :four_leaf_clover: Profile
 

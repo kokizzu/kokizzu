@@ -16,6 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
+          SETTING_JSON: "profile-3d-contrib/night-green-animate.json"
       - name: Commit & Push
         run: |
           git config user.name kokizzu
