@@ -8,14 +8,6 @@
 	</a>
 </p>
 
-# :dizzy: Statistics
-
-![profile-details](profile-summary-card-output/nord_dark/0-profile-details.svg)
-![stats](profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-![most-commit-language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-![stats](profile-summary-card-output/nord_dark/3-stats.svg)
-![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
-
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -50,6 +42,14 @@
 <a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+# :dizzy: Statistics
+
+![profile-details](profile-summary-card-output/nord_dark/0-profile-details.svg)
+![stats](profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![most-commit-language](profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![stats](profile-summary-card-output/nord_dark/3-stats.svg)
+![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
 
 # :notes: Metrics
 
