@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          user: formidablae
+          user: kokizzu
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
