@@ -34,6 +34,7 @@
 
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kokizzu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">Kiswono Prayogo</a></div>
 
 # :sparkling_heart: Contributions
