@@ -1,3 +1,13 @@
+
+# :sparkling_heart: Contributions
+
+<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+
 # :dizzy: Statistics
 
 ![profile-details](profile-summary-card-output/nord_dark/0-profile-details.svg)
@@ -40,15 +50,6 @@
 <a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-# :sparkling_heart: Contributions
-
-<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
 
 # :notes: Metrics
 
