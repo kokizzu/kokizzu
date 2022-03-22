@@ -43,7 +43,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 
 <img width="625em" src="./github-metrics.svg" />
 
-# :four_leaf_clover: External Profiles
+# :four_leaf_clover: Other Public Profile
 
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
