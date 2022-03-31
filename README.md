@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Ansible](https://kokizzu.blogspot.com/2022/03/getting-started-with-ansible.html)
 - [Move docker Data Directory to Another Partition](https://kokizzu.blogspot.com/2022/03/move-docker-data-directory-to-another.html)
 - [1 million Go goroutine vs C# task](https://kokizzu.blogspot.com/2022/03/1-million-go-goroutine-vs-c-task.html)
 - [Getting started with Cassandra or ScyllaDB](https://kokizzu.blogspot.com/2022/03/getting-started-with-cassandra.html)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Dockerfile Template &lpar;React, Express, Vue, Nest, Angular, GoFiber, Svelte, Django, Laravel, ASP.NET Core, Kotlin, Deno&rpar;](https://kokizzu.blogspot.com/2021/08/dockerfile-template-react-express-vue.html)
 - [Mock vs Fake and Classical Testing](https://kokizzu.blogspot.com/2021/07/mock-vs-fake-and-classical-testing.html)
 - [Prime Benchmark](https://kokizzu.blogspot.com/2021/07/prime-benchmark.html)
-- [Easy Tarantool and ClickHouse Replication Setup](https://kokizzu.blogspot.com/2021/05/easy-tarantool-clickhouse-replication-setup.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
