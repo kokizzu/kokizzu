@@ -17,7 +17,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [1 million Go goroutine vs C# task](https://kokizzu.blogspot.com/2022/03/1-million-go-goroutine-vs-c-task.html)
 - [Getting started with Cassandra or ScyllaDB](https://kokizzu.blogspot.com/2022/03/getting-started-with-cassandra.html)
 - [C# vs Go in Simple Benchmark](https://kokizzu.blogspot.com/2022/02/c-vs-go-in-simple-benchmark.html)
-- [Getting started with Kubernetes](https://kokizzu.blogspot.com/2022/01/getting-started-with-kubernetes.html)
+- [Getting started with Kubernetes](https://kokizzu.blogspot.com/2022/02/getting-started-with-kubernetes.html)
 - [Easy minimal Ubuntu VM on any OS](https://kokizzu.blogspot.com/2022/01/easy-minimal-ubuntu-vm.html)
 - [String Associative Array and CombSort Benchmark 2021 Edition](https://kokizzu.blogspot.com/2021/12/string-associative-array-and-combsort.html)
 - [Object Storage Service with CDN](https://kokizzu.blogspot.com/2021/12/storage-service-with-cdn.html)
