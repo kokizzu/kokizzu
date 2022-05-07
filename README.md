@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Trino](https://kokizzu.blogspot.com/2022/05/getting-started-with-trino.html)
 - [Start/restart Golang or any other binary program automatically on boot/crash](https://kokizzu.blogspot.com/2022/04/startrestart-golang-or-any-other-binary.html)
 - [Automatic Load Balancer Registration/Deregistration with NATS or FabioLB](https://kokizzu.blogspot.com/2022/04/automatic-load-balancer.html)
 - [Georeplicable Architecture Tech Stacks](https://kokizzu.blogspot.com/2022/04/georeplicable-architecture-tech-stacks.html)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Against Golang Interface{Method}-abuse/pollution](https://kokizzu.blogspot.com/2021/09/fight-against-golang-interfacemethod.html)
 - [Remove Secrets from git Repository](https://kokizzu.blogspot.com/2021/09/remove-secrets-from-git-repository.html)
 - [Database Patterns of Microservices](https://kokizzu.blogspot.com/2021/08/database-patterns-of-microservices.html)
-- [You don&#39;t need Kubernetes](https://kokizzu.blogspot.com/2021/08/you-dont-need-kubernetes.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
