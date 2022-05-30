@@ -51,13 +51,13 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 
 # 🥇 Featured Projects
 
-- [ch-timed-buffer](//github.com/kokizzu/) - Clickhouse insert buffer library for Go
-- [goproc](//github.com/kokizzu/) - process runner library for Go
-- [gotro](//github.com/kokizzu/) - collection of Go helper libraries and web framework
+- [ch-timed-buffer](//github.com/kokizzu/ch-timed-buffer) - Clickhouse insert buffer library for Go
+- [goproc](//github.com/kokizzu/goproc) - process runner library for Go
+- [gotro](//github.com/kokizzu/gotro) - collection of Go helper libraries and web framework
 - [hugedbbench](//github.com/kokizzu/hugedbbench) - collection of database benchmarks
 - [id64](//github.com/kokizzu/id64) - 64-bit id generator for Go
-- [kokizzu-benchmark](//github.com/kokizzu/kokizzu-benchmark ) - collection of programming language benchmarks
+- [kokizzu-benchmark](//github.com/kokizzu/kokizzu-benchmark) - collection of programming language benchmarks
 - [lexid](//github.com/kokizzu/lexid) - compact unique id generator library for Go that can be sorted by creation time
-- [list-of-tech-migrations](//github.com/kokizzu/) - list of tech migrations from internet
-- [replacer](//github.com/kokizzu/) - command line utility to replace text after specific line
-- [svelte-mpa](//github.com/kokizzu/) - Svelte multipage application starter project
+- [list-of-tech-migrations](//github.com/kokizzu/list-of-tech-migrations) - list of tech migrations from internet
+- [replacer](//github.com/kokizzu/replacer) - command line utility to replace text after specific line
+- [svelte-mpa](//github.com/kokizzu/svelte-mpa) - Svelte multipage application starter project
