@@ -49,15 +49,15 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-# 🥇 Feature Projects
+# 🥇 Featured Projects
 
+- [ch-timed-buffer](//github.com/kokizzu/) - Clickhouse insert buffer library for Go
 - [goproc](//github.com/kokizzu/) - process runner library for Go
 - [gotro](//github.com/kokizzu/) - collection of Go helper libraries and web framework
-- [lexid](//github.com/kokizzu/lexid) - compact unique id generator library for Go that can be sorted by creation time
-- [id64](//github.com/kokizzu/id64) - 64-bit id generator for Go
-- [list-of-tech-migrations](//github.com/kokizzu/) - list of tech migrations from internet
 - [hugedbbench](//github.com/kokizzu/hugedbbench) - collection of database benchmarks
+- [id64](//github.com/kokizzu/id64) - 64-bit id generator for Go
 - [kokizzu-benchmark](//github.com/kokizzu/kokizzu-benchmark ) - collection of programming language benchmarks
-- [ch-timed-buffer](//github.com/kokizzu/) - Clickhouse insert buffer library for Go
-- [svelte-mpa](//github.com/kokizzu/) - Svelte multipage application starter project
+- [lexid](//github.com/kokizzu/lexid) - compact unique id generator library for Go that can be sorted by creation time
+- [list-of-tech-migrations](//github.com/kokizzu/) - list of tech migrations from internet
 - [replacer](//github.com/kokizzu/) - command line utility to replace text after specific line
+- [svelte-mpa](//github.com/kokizzu/) - Svelte multipage application starter project
