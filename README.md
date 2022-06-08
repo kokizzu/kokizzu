@@ -45,6 +45,8 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 
 <a href="https://stackexchange.com/users/1262084"><img src="https://stackexchange.com/users/flair/1262084.png" width="208" height="58" alt="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kokizzu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
+<a href="https://profile.codersrank.io/user/kokizzu"><img src="https://codersrank.io/wp-content/uploads/2019/11/cr-logo-horizontal-1.svg" alt="codersrank" width="258" height="39"></a>
+
 <a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
