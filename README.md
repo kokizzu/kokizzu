@@ -10,7 +10,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 
 <!-- BLOG-POST-LIST:START -->
 - [How to profile your Golang Fiber server](https://kokizzu.blogspot.com/2022/06/how-to-profile-your-golang-fiber-server.html)
-- [Getting started with SaltStack Configration Management](https://kokizzu.blogspot.com/2022/05/getting-started-with-saltstack.html)
+- [Getting started with SaltStack Configuration Management](https://kokizzu.blogspot.com/2022/05/getting-started-with-saltstack.html)
 - [How to structure/layer your Golang Project &lpar;or whatever language you are using&rpar;](https://kokizzu.blogspot.com/2022/05/how-to-structure-layer-your-golang-project.html)
 - [Getting started with Trino](https://kokizzu.blogspot.com/2022/05/getting-started-with-trino.html)
 - [Start/restart Golang or any other binary program automatically on boot/crash](https://kokizzu.blogspot.com/2022/04/startrestart-golang-or-any-other-binary.html)
