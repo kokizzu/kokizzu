@@ -59,13 +59,13 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 
 # 🥇 Featured Projects
 
-- [ch-timed-buffer](//github.com/kokizzu/ch-timed-buffer) - Clickhouse insert buffer library for Go
-- [goproc](//github.com/kokizzu/goproc) - process runner library for Go
-- [gotro](//github.com/kokizzu/gotro) - collection of Go helper libraries and web framework
-- [hugedbbench](//github.com/kokizzu/hugedbbench) - collection of database benchmarks
-- [id64](//github.com/kokizzu/id64) - 64-bit id generator for Go
-- [kokizzu-benchmark](//github.com/kokizzu/kokizzu-benchmark) - collection of programming language benchmarks
-- [lexid](//github.com/kokizzu/lexid) - compact unique id generator library for Go that can be sorted by creation time
-- [list-of-tech-migrations](//github.com/kokizzu/list-of-tech-migrations) - list of tech migrations from internet
-- [replacer](//github.com/kokizzu/replacer) - command line utility to replace text after specific line
-- [svelte-mpa](//github.com/kokizzu/svelte-mpa) - Svelte multipage application starter project
+- [ch-timed-buffer](//github.com/kokizzu/ch-timed-buffer) [![github stars badge](https://img.shields.io/github/stars/kokizzu/ch-timed-buffer?style=flat)](https://github.com/kokizzu/ch-timed-buffer/stargazers) - Clickhouse insert buffer library for Go
+- [goproc](//github.com/kokizzu/goproc) [![github stars badge](https://img.shields.io/github/stars/kokizzu/goproc?style=flat)](https://github.com/kokizzu/goproc/stargazers) - process runner library for Go
+- [gotro](//github.com/kokizzu/gotro) [![github stars badge](https://img.shields.io/github/stars/kokizzu/gotro?style=flat)](https://github.com/kokizzu/gotro/stargazers) - collection of Go helper libraries and web framework
+- [hugedbbench](//github.com/kokizzu/hugedbbench) [![github stars badge](https://img.shields.io/github/stars/kokizzu/hugedbbench?style=flat)](https://github.com/kokizzu/hugedbbench/stargazers) - collection of database benchmarks
+- [id64](//github.com/kokizzu/id64) [![github stars badge](https://img.shields.io/github/stars/kokizzu/id64?style=flat)](https://github.com/kokizzu/id64/stargazers) - 64-bit id generator for Go
+- [kokizzu-benchmark](//github.com/kokizzu/kokizzu-benchmark) [![github stars badge](https://img.shields.io/github/stars/kokizzu/kokizzu-benchmark?style=flat)](https://github.com/kokizzu/kokizzu-benchmark/stargazers) - collection of programming language benchmarks
+- [lexid](//github.com/kokizzu/lexid) [![github stars badge](https://img.shields.io/github/stars/kokizzu/lexid?style=flat)](https://github.com/kokizzu/lexid/stargazers) - compact unique id generator library for Go that can be sorted by creation time
+- [list-of-tech-migrations](//github.com/kokizzu/list-of-tech-migrations) [![github stars badge](https://img.shields.io/github/stars/kokizzu/list-of-tech-migrations?style=flat)](https://github.com/kokizzu/list-of-tech-migrations/stargazers) - list of tech migrations from internet
+- [replacer](//github.com/kokizzu/replacer) [![github stars badge](https://img.shields.io/github/stars/kokizzu/replacer?style=flat)](https://github.com/kokizzu/replacer/stargazers) - command line utility to replace text after specific line
+- [svelte-mpa](//github.com/kokizzu/svelte-mpa) [![github stars badge](https://img.shields.io/github/stars/kokizzu/svelte-mpa?style=flat)](https://github.com/kokizzu/svelte-mpa/stargazers) - Svelte multipage application starter project
