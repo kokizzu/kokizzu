@@ -53,6 +53,8 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 <a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/kokizzu?trk=profile-badge">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+        </td><td>
+<a href="https://medium.com/@kokizzu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
         </td>
     </tr>
 </table>
