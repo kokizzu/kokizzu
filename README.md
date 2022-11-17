@@ -79,3 +79,4 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [gingorm1](//github.com/kokizzu/gingorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/gingorm1?style=flat)](https://github.com/kokizzu/gingorm1/stargazers) - gin, mysql, gorm example
 - [echogorm1](//github.com/kokizzu/echogorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/echogorm1?style=flat)](https://github.com/kokizzu/echogorm1/stargazers) - echo, mysql, gorm example
 - [sveltefiber](//github.com/kokizzu/sveltefiber) [![github stars badge](https://img.shields.io/github/stars/kokizzu/sveltefiber?style=flat)](https://github.com/kokizzu/sveltefiber/stargazers) - fiber, svelte-mpa example
+- [otoCrawl](//github.com/kokizzu/otoCrawl) [![github stars badge](https://img.shields.io/github/stars/kokizzu/otoCrawl?style=flat)](https://github.com/kokizzu/otoCrawl/stargazers) - web crawling example using various programming language
