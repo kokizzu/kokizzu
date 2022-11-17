@@ -71,3 +71,9 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [list-of-tech-migrations](//github.com/kokizzu/list-of-tech-migrations) [![github stars badge](https://img.shields.io/github/stars/kokizzu/list-of-tech-migrations?style=flat)](https://github.com/kokizzu/list-of-tech-migrations/stargazers) - list of tech migrations from internet
 - [replacer](//github.com/kokizzu/replacer) [![github stars badge](https://img.shields.io/github/stars/kokizzu/replacer?style=flat)](https://github.com/kokizzu/replacer/stargazers) - command line utility to replace text after specific line
 - [svelte-mpa](//github.com/kokizzu/svelte-mpa) [![github stars badge](https://img.shields.io/github/stars/kokizzu/svelte-mpa?style=flat)](https://github.com/kokizzu/svelte-mpa/stargazers) - Svelte multipage application starter project
+
+# 🥉 Examples
+- [jeager1](//github.com/kokizzu/jeager1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/jeager1?style=flat)](https://github.com/kokizzu/jeager1/stargazers) - jaeger intergration example with grpc, http, and nats
+- [fiber1](//github.com/kokizzu/fiber1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiber1?style=flat)](https://github.com/kokizzu/fiber1/stargazers) - fiber, mysql, dockertest, autogold example
+- [gingorm1](//github.com/kokizzu/gingorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/gingorm1?style=flat)](https://github.com/kokizzu/gingorm1/stargazers) - gin, mysql, gorm example
+- [echogorm1](//github.com/kokizzu/echogorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/echogorm1?style=flat)](https://github.com/kokizzu/echogorm1/stargazers) - echo, mysql, gorm example
