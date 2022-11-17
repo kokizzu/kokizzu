@@ -73,10 +73,11 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [svelte-mpa](//github.com/kokizzu/svelte-mpa) [![github stars badge](https://img.shields.io/github/stars/kokizzu/svelte-mpa?style=flat)](https://github.com/kokizzu/svelte-mpa/stargazers) - Svelte multipage application starter project
 - [json5b](//github.com/kokizzu/json5b) [![github stars badge](https://img.shields.io/github/stars/kokizzu/json5b?style=flat)](https://github.com/kokizzu/json5b/stargazers) - json5 fork with json5-tag instead of json
 
-# 🥉 Examples
+# 🥈 Simple Examples
 - [jeager1](//github.com/kokizzu/jeager1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/jeager1?style=flat)](https://github.com/kokizzu/jeager1/stargazers) - jaeger intergration example with grpc, http, and nats
 - [fiber1](//github.com/kokizzu/fiber1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiber1?style=flat)](https://github.com/kokizzu/fiber1/stargazers) - fiber, mysql, dockertest, autogold example
 - [gingorm1](//github.com/kokizzu/gingorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/gingorm1?style=flat)](https://github.com/kokizzu/gingorm1/stargazers) - gin, mysql, gorm example
 - [echogorm1](//github.com/kokizzu/echogorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/echogorm1?style=flat)](https://github.com/kokizzu/echogorm1/stargazers) - echo, mysql, gorm example
 - [sveltefiber](//github.com/kokizzu/sveltefiber) [![github stars badge](https://img.shields.io/github/stars/kokizzu/sveltefiber?style=flat)](https://github.com/kokizzu/sveltefiber/stargazers) - fiber, svelte-mpa example
-- [otoCrawl](//github.com/kokizzu/otoCrawl) [![github stars badge](https://img.shields.io/github/stars/kokizzu/otoCrawl?style=flat)](https://github.com/kokizzu/otoCrawl/stargazers) - web crawling example using various programming language
+- [otoCrawl](//github.com/kokizzu/otoCrawl) [![github stars badge](https://img.shields.io/github/stars/kokizzu/otoCrawl?style=flat)](https://github.com/kokizzu/otoCrawl/stargazers) - web crawling example using javascript, ruby, and python
+- [pgx-pq-example](//github.com/kokizzu/pgx-pq-example) [![github stars badge](https://img.shields.io/github/stars/kokizzu/pgx-pq-example?style=flat)](https://github.com/kokizzu/pgx-pq-example/stargazers) - old pgx vs pg benchmark
