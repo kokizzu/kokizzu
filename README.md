@@ -9,6 +9,8 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CockroachDB Benchmark on Different Disk Types](https://kokizzu.blogspot.com/2022/12/cockroachdb-benchmark-on-different-disk.html)
+- [Map to Struct and Struct to Map Golang Benchmark 2022 Edition](https://kokizzu.blogspot.com/2022/12/map-to-struct-and-struct-to-map-golang.html)
 - [Getting started with InfluxDB](https://kokizzu.blogspot.com/2022/09/getting-started-with-influxdb.html)
 - [Techempower Framework Benchmark Round 21](https://kokizzu.blogspot.com/2022/07/techempower-framework-benchmark-round-21.html)
 - [How to profile your Golang Fiber server](https://kokizzu.blogspot.com/2022/06/how-to-profile-your-golang-fiber-server.html)
@@ -27,8 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Easy minimal Ubuntu VM on any OS](https://kokizzu.blogspot.com/2022/01/easy-minimal-ubuntu-vm.html)
 - [String Associative Array and CombSort Benchmark 2021 Edition](https://kokizzu.blogspot.com/2021/12/string-associative-array-and-combsort.html)
 - [Object Storage Service with CDN](https://kokizzu.blogspot.com/2021/12/storage-service-with-cdn.html)
-- [Coolest PaaS/IaaS I&#39;ve ever use: Jelastic](https://kokizzu.blogspot.com/2021/12/coolest-paas-ive-ever-use-jelastic.html)
-- [Kafka vs RedPanda Benchmark &lpar;also Tarantool and Clickhouse as queue&rpar;](https://kokizzu.blogspot.com/2021/11/kafka-vs-redpanda-benchmark.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
