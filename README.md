@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GeoSearch Database Benchmark](https://kokizzu.blogspot.com/2023/04/geosearch-database-benchmark.html)
 - [How to use DNS SDK in Golang](https://kokizzu.blogspot.com/2023/04/how-to-use-dns-sdk-in-golang.html)
 - [Lua Tutorial, Example, Cheatsheet](https://kokizzu.blogspot.com/2023/02/lua-tutorial-example-cheatsheet.html)
 - [CockroachDB Benchmark on Different Disk Types](https://kokizzu.blogspot.com/2022/12/cockroachdb-benchmark-on-different-disk.html)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Getting started with Cassandra or ScyllaDB](https://kokizzu.blogspot.com/2022/03/getting-started-with-cassandra.html)
 - [C# vs Go in Simple Benchmark](https://kokizzu.blogspot.com/2022/02/c-vs-go-in-simple-benchmark.html)
 - [Getting started with Kubernetes](https://kokizzu.blogspot.com/2022/02/getting-started-with-kubernetes.html)
-- [Easy minimal Ubuntu VM on any OS](https://kokizzu.blogspot.com/2022/01/easy-minimal-ubuntu-vm.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
