@@ -81,6 +81,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [sveltefiber](//github.com/kokizzu/sveltefiber) [![github stars badge](https://img.shields.io/github/stars/kokizzu/sveltefiber?style=flat)](https://github.com/kokizzu/sveltefiber/stargazers) - fiber, svelte-mpa example
 - [otoCrawl](//github.com/kokizzu/otoCrawl) [![github stars badge](https://img.shields.io/github/stars/kokizzu/otoCrawl?style=flat)](https://github.com/kokizzu/otoCrawl/stargazers) - web crawling example using javascript, ruby, and python
 - [pgx-pq-example](//github.com/kokizzu/pgx-pq-example) [![github stars badge](https://img.shields.io/github/stars/kokizzu/pgx-pq-example?style=flat)](https://github.com/kokizzu/pgx-pq-example/stargazers) - old pgx vs pg benchmark
+- [fiberpgx1](//github.com/kokizzu/fiberpgx1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiberpgx1?style=flat)](https://github.com/kokizzu/fiberpgx1/stargazers) - fiber, postgres, pgx example
 
 
 # :dragon_face: Visitors
