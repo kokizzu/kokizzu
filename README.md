@@ -83,6 +83,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [pgx-pq-example](//github.com/kokizzu/pgx-pq-example) [![github stars badge](https://img.shields.io/github/stars/kokizzu/pgx-pq-example?style=flat)](https://github.com/kokizzu/pgx-pq-example/stargazers) - old pgx vs pg benchmark
 - [fiberpgx1](//github.com/kokizzu/fiberpgx1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiberpgx1?style=flat)](https://github.com/kokizzu/fiberpgx1/stargazers) - fiber, postgres, pgx example
 - [rabbit1](//github.com/kokizzu/rabbit1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/rabbit1?style=flat)](https://github.com/kokizzu/rabbit1/stargazers) - rabbitmq example
+- [clickhouse1](//github.com/kokizzu/clickhouse1) - [![github stars badge](https://img.shields.io/github/stars/kokizzu/clickhouse1?style=flat)](https://github.com/kokizzu/clickhouse1/stargazers) - clickhouse insert buffering example
 - [street](//github.com/kokizzu/street) [![github stars badge](https://img.shields.io/github/stars/kokizzu/street?style=flat)](https://github.com/kokizzu/street/stargazers) - complex example how to use svelte (svelte-mpa), golang (fiber, gotro), tarantool, clickhouse
 
 # :dragon_face: Visitors
