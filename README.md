@@ -72,6 +72,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [replacer](//github.com/kokizzu/replacer) [![github stars badge](https://img.shields.io/github/stars/kokizzu/replacer?style=flat)](https://github.com/kokizzu/replacer/stargazers) - command line utility to replace text after specific line
 - [svelte-mpa](//github.com/kokizzu/svelte-mpa) [![github stars badge](https://img.shields.io/github/stars/kokizzu/svelte-mpa?style=flat)](https://github.com/kokizzu/svelte-mpa/stargazers) - Svelte multipage application starter project
 - [json5b](//github.com/kokizzu/json5b) [![github stars badge](https://img.shields.io/github/stars/kokizzu/json5b?style=flat)](https://github.com/kokizzu/json5b/stargazers) - json5 fork with json5-tag instead of json
+- [street](//github.com/kokizzu/street) [![github stars badge](https://img.shields.io/github/stars/kokizzu/street?style=flat)](https://github.com/kokizzu/street/stargazers) - complex example how to use svelte (svelte-mpa), golang (fiber, gotro), tarantool, clickhouse
 
 # 🥈 Simple Examples
 - [jeager1](//github.com/kokizzu/jeager1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/jeager1?style=flat)](https://github.com/kokizzu/jeager1/stargazers) - jaeger intergration example with grpc, http, and nats
@@ -84,7 +85,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [fiberpgx1](//github.com/kokizzu/fiberpgx1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiberpgx1?style=flat)](https://github.com/kokizzu/fiberpgx1/stargazers) - fiber, postgres, pgx example
 - [rabbit1](//github.com/kokizzu/rabbit1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/rabbit1?style=flat)](https://github.com/kokizzu/rabbit1/stargazers) - rabbitmq example
 - [clickhouse1](//github.com/kokizzu/clickhouse1) - [![github stars badge](https://img.shields.io/github/stars/kokizzu/clickhouse1?style=flat)](https://github.com/kokizzu/clickhouse1/stargazers) - clickhouse insert buffering example
-- [street](//github.com/kokizzu/street) [![github stars badge](https://img.shields.io/github/stars/kokizzu/street?style=flat)](https://github.com/kokizzu/street/stargazers) - complex example how to use svelte (svelte-mpa), golang (fiber, gotro), tarantool, clickhouse
 
 # :dragon_face: Visitors
   <img src="https://profile-counter.glitch.me/kokizzu/count.svg" />
