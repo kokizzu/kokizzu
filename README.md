@@ -84,9 +84,9 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [otoCrawl](//github.com/kokizzu/otoCrawl) [![github stars badge](https://img.shields.io/github/stars/kokizzu/otoCrawl?style=flat)](https://github.com/kokizzu/otoCrawl/stargazers) - web crawling example using javascript, ruby, and python
 - [pgx-pq-example](//github.com/kokizzu/pgx-pq-example) [![github stars badge](https://img.shields.io/github/stars/kokizzu/pgx-pq-example?style=flat)](https://github.com/kokizzu/pgx-pq-example/stargazers) - old pgx vs pg benchmark
 - [fiberpgx1](//github.com/kokizzu/fiberpgx1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiberpgx1?style=flat)](https://github.com/kokizzu/fiberpgx1/stargazers) - fiber, postgres, pgx example
-- [dns1](//github.com/kokizzu/dns1) - [![github stars badge](https://img.shields.io/github/stars/kokizzu/dns1?style=flat)](https://github.com/kokizzu/dns1/stargazers) - dns manipulation example
+- [dns1](//github.com/kokizzu/dns1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/dns1?style=flat)](https://github.com/kokizzu/dns1/stargazers) - dns manipulation example
 - [rabbit1](//github.com/kokizzu/rabbit1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/rabbit1?style=flat)](https://github.com/kokizzu/rabbit1/stargazers) - rabbitmq example
-- [clickhouse1](//github.com/kokizzu/clickhouse1) - [![github stars badge](https://img.shields.io/github/stars/kokizzu/clickhouse1?style=flat)](https://github.com/kokizzu/clickhouse1/stargazers) - clickhouse insert buffering example
+- [clickhouse1](//github.com/kokizzu/clickhouse1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/clickhouse1?style=flat)](https://github.com/kokizzu/clickhouse1/stargazers) - clickhouse insert buffering example
 
 # :dragon_face: Visitors
   <img src="https://profile-counter.glitch.me/kokizzu/count.svg" />
