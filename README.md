@@ -72,7 +72,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [replacer](//github.com/kokizzu/replacer) [![github stars badge](https://img.shields.io/github/stars/kokizzu/replacer?style=flat)](https://github.com/kokizzu/replacer/stargazers) - command line utility to replace text after specific line
 - [svelte-mpa](//github.com/kokizzu/svelte-mpa) [![github stars badge](https://img.shields.io/github/stars/kokizzu/svelte-mpa?style=flat)](https://github.com/kokizzu/svelte-mpa/stargazers) - Svelte multipage application starter project
 - [json5b](//github.com/kokizzu/json5b) [![github stars badge](https://img.shields.io/github/stars/kokizzu/json5b?style=flat)](https://github.com/kokizzu/json5b/stargazers) - json5 fork with json5-tag instead of json
-- [uadeco](//github.com/kokizzu/uadeco) [![github stars badge](https://img.shields.io/github/stars/kokizzu/uadeco?style=flat)](https://github.com/kokizzu/uadeco/stargazers) - simple user agent decorator
+- [uadeco](//github.com/kokizzu/uadeco) [![github stars badge](https://img.shields.io/github/stars/kokizzu/uadeco?style=flat)](https://github.com/kokizzu/uadeco/stargazers) - simple net/http user-agent decorator
 - [street](//github.com/kokizzu/street) [![github stars badge](https://img.shields.io/github/stars/kokizzu/street?style=flat)](https://github.com/kokizzu/street/stargazers) - complex example how to use svelte (svelte-mpa), golang (fiber, gotro), tarantool, clickhouse
 
 # 🥈 Simple Examples
