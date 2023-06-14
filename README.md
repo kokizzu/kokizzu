@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Websocket Echo Benchmark](https://kokizzu.blogspot.com/2023/06/simple-websocket-echo-benchmark.html)
 - [Dockerfile vs Nixpacks vs ko](https://kokizzu.blogspot.com/2023/05/dockerfile-vs-nixpacks.html)
 - [GeoSearch Database Benchmark](https://kokizzu.blogspot.com/2023/04/geosearch-database-benchmark.html)
 - [How to use DNS SDK in Golang](https://kokizzu.blogspot.com/2023/04/how-to-use-dns-sdk-in-golang.html)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Move docker Data Directory to Another Partition](https://kokizzu.blogspot.com/2022/03/move-docker-data-directory-to-another.html)
 - [1 million Go goroutine vs C# task](https://kokizzu.blogspot.com/2022/03/1-million-go-goroutine-vs-c-task.html)
 - [Getting started with Cassandra or ScyllaDB](https://kokizzu.blogspot.com/2022/03/getting-started-with-cassandra.html)
-- [C# vs Go in Simple Benchmark](https://kokizzu.blogspot.com/2022/02/c-vs-go-in-simple-benchmark.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
