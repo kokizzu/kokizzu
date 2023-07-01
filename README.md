@@ -88,6 +88,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [dns1](//github.com/kokizzu/dns1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/dns1?style=flat)](https://github.com/kokizzu/dns1/stargazers) - dns manipulation example
 - [rabbit1](//github.com/kokizzu/rabbit1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/rabbit1?style=flat)](https://github.com/kokizzu/rabbit1/stargazers) - rabbitmq example
 - [clickhouse1](//github.com/kokizzu/clickhouse1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/clickhouse1?style=flat)](https://github.com/kokizzu/clickhouse1/stargazers) - clickhouse insert buffering example
+- [terraform1](//github.com/kokizzu/terraform1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/terraform1?style=flat)](https://github.com/kokizzu/terraform1/stargazers) - terraform, kubernetes, keda, prometheus autoscaling example
 
 # :dragon_face: Visitors
   <img src="https://profile-counter.glitch.me/kokizzu/count.svg" />
