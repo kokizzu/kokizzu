@@ -90,6 +90,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [rabbit1](//github.com/kokizzu/rabbit1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/rabbit1?style=flat)](https://github.com/kokizzu/rabbit1/stargazers) - rabbitmq example
 - [sveltefiber](//github.com/kokizzu/sveltefiber) [![github stars badge](https://img.shields.io/github/stars/kokizzu/sveltefiber?style=flat)](https://github.com/kokizzu/sveltefiber/stargazers) - fiber, svelte-mpa example
 - [terraform1](//github.com/kokizzu/terraform1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/terraform1?style=flat)](https://github.com/kokizzu/terraform1/stargazers) - terraform, kubernetes, keda, prometheus autoscaling example
+- [vault1](//github.com/kokizzu/vault1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/vault1?style=flat)](https://github.com/kokizzu/vault1/stargazers) - vault, golang example
 
 # :dragon_face: Visitors
   <img src="https://profile-counter.glitch.me/kokizzu/count.svg" />
