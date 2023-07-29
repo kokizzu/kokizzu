@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Vault with Go](https://kokizzu.blogspot.com/2023/07/using-vault-with-go.html)
 - [KEDA Kubernetes Event-Driven Autoscaling](https://kokizzu.blogspot.com/2023/07/keda-kubernetes-event-driven-autoscaling.html)
 - [Simple Websocket Echo Benchmark](https://kokizzu.blogspot.com/2023/06/simple-websocket-echo-benchmark.html)
 - [Dockerfile vs Nixpacks vs ko](https://kokizzu.blogspot.com/2023/05/dockerfile-vs-nixpacks.html)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Georeplicable Architecture Tech Stacks](https://kokizzu.blogspot.com/2022/04/georeplicable-architecture-tech-stacks.html)
 - [Getting started with Ansible](https://kokizzu.blogspot.com/2022/03/getting-started-with-ansible.html)
 - [Move docker Data Directory to Another Partition](https://kokizzu.blogspot.com/2022/03/move-docker-data-directory-to-another.html)
-- [1 million Go goroutine vs C# task](https://kokizzu.blogspot.com/2022/03/1-million-go-goroutine-vs-c-task.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
