@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Free VPN on Linux](https://kokizzu.blogspot.com/2023/08/free-vpn-on-linux.html)
 - [Using Vault with Go](https://kokizzu.blogspot.com/2023/07/using-vault-with-go.html)
 - [KEDA Kubernetes Event-Driven Autoscaling](https://kokizzu.blogspot.com/2023/07/keda-kubernetes-event-driven-autoscaling.html)
 - [Simple Websocket Echo Benchmark](https://kokizzu.blogspot.com/2023/06/simple-websocket-echo-benchmark.html)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Automatic Load Balancer Registration/Deregistration with NATS or FabioLB](https://kokizzu.blogspot.com/2022/04/automatic-load-balancer.html)
 - [Georeplicable Architecture Tech Stacks](https://kokizzu.blogspot.com/2022/04/georeplicable-architecture-tech-stacks.html)
 - [Getting started with Ansible](https://kokizzu.blogspot.com/2022/03/getting-started-with-ansible.html)
-- [Move docker Data Directory to Another Partition](https://kokizzu.blogspot.com/2022/03/move-docker-data-directory-to-another.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
