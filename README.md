@@ -40,6 +40,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 ![productive-time](profile-summary-card-output/nord_dark/4-productive-time.svg)
 
 <img width="625em" src="./github-metrics.svg" />
+<img src="https://wakatime.com/share/@kokizzu/6dd07cd1-a350-4e55-9166-c0de2a126b7e.svg"></img>
 
 # :four_leaf_clover: Other Public Profile
 
