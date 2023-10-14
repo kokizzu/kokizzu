@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarking docker-volume vs mount-fs vs tmpfs](https://kokizzu.blogspot.com/2023/10/benchmarking-docker-volume-vs-mount-fs.html)
 - [NATS: at-most once Queue / simpler networking](https://kokizzu.blogspot.com/2023/10/nats-at-most-once-queue-simpler.html)
 - [Chisel: Ngrok local-tunnel Alternative](https://kokizzu.blogspot.com/2023/09/chisel-ngrok-local-tunnel-alternative.html)
 - [Free VPN on Linux](https://kokizzu.blogspot.com/2023/08/free-vpn-on-linux.html)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [How to structure/layer your Golang Project &lpar;or whatever language you are using&rpar;](https://kokizzu.blogspot.com/2022/05/how-to-structure-layer-your-golang-project.html)
 - [Getting started with Trino](https://kokizzu.blogspot.com/2022/05/getting-started-with-trino.html)
 - [Start/restart Golang or any other binary program automatically on boot/crash](https://kokizzu.blogspot.com/2022/04/startrestart-golang-or-any-other-binary.html)
-- [Automatic Load Balancer Registration/Deregistration with NATS or FabioLB](https://kokizzu.blogspot.com/2022/04/automatic-load-balancer.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
