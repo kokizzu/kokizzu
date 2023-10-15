@@ -78,9 +78,9 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [yamlflatten](//github.com/kokizzu/yamlflatten) [![github stars badge](https://img.shields.io/github/stars/kokizzu/yamlflatten?style=flat)](https://github.com/kokizzu/yamlflatten/stargazers) - flatten YAML tree into HCL/JSON-query lines
 
 # 🥈 Simple Examples
+- [bqEmu1](//github.com/kokizzu/bqEmu1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/bqEmu1?style=flat)](https://github.com/kokizzu/bqEmu1/stargazers) - bigquery emulator example
 - [clickhouse1](//github.com/kokizzu/clickhouse1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/clickhouse1?style=flat)](https://github.com/kokizzu/clickhouse1/stargazers) - clickhouse insert buffering example
 - [dns1](//github.com/kokizzu/dns1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/dns1?style=flat)](https://github.com/kokizzu/dns1/stargazers) - dns manipulation example
-- [dns1](//github.com/kokizzu/bqEmu1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/bqEmu1?style=flat)](https://github.com/kokizzu/bqEmu1/stargazers) - bigquery emulator example
 - [echogorm1](//github.com/kokizzu/echogorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/echogorm1?style=flat)](https://github.com/kokizzu/echogorm1/stargazers) - echo, mysql, gorm example
 - [fiber1](//github.com/kokizzu/fiber1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiber1?style=flat)](https://github.com/kokizzu/fiber1/stargazers) - fiber, mysql, dockertest, autogold example
 - [fiberpgx1](//github.com/kokizzu/fiberpgx1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiberpgx1?style=flat)](https://github.com/kokizzu/fiberpgx1/stargazers) - fiber, postgres, pgx example
