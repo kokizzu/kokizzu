@@ -78,22 +78,23 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [yamlflatten](//github.com/kokizzu/yamlflatten) [![github stars badge](https://img.shields.io/github/stars/kokizzu/yamlflatten?style=flat)](https://github.com/kokizzu/yamlflatten/stargazers) - flatten YAML tree into HCL/JSON-query lines
 
 # 🥈 Simple Examples
-- [bqEmu1](//github.com/kokizzu/bqEmu1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/bqEmu1?style=flat)](https://github.com/kokizzu/bqEmu1/stargazers) - bigquery emulator example
-- [clickhouse1](//github.com/kokizzu/clickhouse1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/clickhouse1?style=flat)](https://github.com/kokizzu/clickhouse1/stargazers) - clickhouse insert buffering example
+- [bqEmu1](//github.com/kokizzu/bqEmu1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/bqEmu1?style=flat)](https://github.com/kokizzu/bqEmu1/stargazers) - BigQuery emulator example
+- [clickhouse1](//github.com/kokizzu/clickhouse1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/clickhouse1?style=flat)](https://github.com/kokizzu/clickhouse1/stargazers) - Clickhouse insert buffering example
 - [dns1](//github.com/kokizzu/dns1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/dns1?style=flat)](https://github.com/kokizzu/dns1/stargazers) - dns manipulation example
-- [echogorm1](//github.com/kokizzu/echogorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/echogorm1?style=flat)](https://github.com/kokizzu/echogorm1/stargazers) - echo, mysql, gorm example
-- [fiber1](//github.com/kokizzu/fiber1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiber1?style=flat)](https://github.com/kokizzu/fiber1/stargazers) - fiber, mysql, dockertest, autogold example
-- [fiberpgx1](//github.com/kokizzu/fiberpgx1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiberpgx1?style=flat)](https://github.com/kokizzu/fiberpgx1/stargazers) - fiber, postgres, pgx example
-- [gingorm1](//github.com/kokizzu/gingorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/gingorm1?style=flat)](https://github.com/kokizzu/gingorm1/stargazers) - gin, mysql, gorm example
+- [echogorm1](//github.com/kokizzu/echogorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/echogorm1?style=flat)](https://github.com/kokizzu/echogorm1/stargazers) - echo, MySQL, gorm example
+- [fiber1](//github.com/kokizzu/fiber1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiber1?style=flat)](https://github.com/kokizzu/fiber1/stargazers) - fiber, MySQL, dockertest, autogold example
+- [fiberpgx1](//github.com/kokizzu/fiberpgx1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiberpgx1?style=flat)](https://github.com/kokizzu/fiberpgx1/stargazers) - fiber, PostgreSQL, pgx example
+- [gingorm1](//github.com/kokizzu/gingorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/gingorm1?style=flat)](https://github.com/kokizzu/gingorm1/stargazers) - Gin, MySQL, gorm example
 - [gorm-vs-korm](//github.com/kokizzu/gorm-vs-korm) [![github stars badge](https://img.shields.io/github/stars/kokizzu/gorm-vs-korm?style=flat)](https://github.com/kokizzu/gorm-vs-korm/stargazers) - gorm vs korm
-- [jeager1](//github.com/kokizzu/jeager1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/jeager1?style=flat)](https://github.com/kokizzu/jeager1/stargazers) - jaeger intergration example with grpc, http, and nats
-- [otoCrawl](//github.com/kokizzu/otoCrawl) [![github stars badge](https://img.shields.io/github/stars/kokizzu/otoCrawl?style=flat)](https://github.com/kokizzu/otoCrawl/stargazers) - web crawling example using javascript, ruby, and python
+- [jeager1](//github.com/kokizzu/jeager1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/jeager1?style=flat)](https://github.com/kokizzu/jeager1/stargazers) - jaeger intergration example with gRPC, HTTP, and NATS
+- [otoCrawl](//github.com/kokizzu/otoCrawl) [![github stars badge](https://img.shields.io/github/stars/kokizzu/otoCrawl?style=flat)](https://github.com/kokizzu/otoCrawl/stargazers) - web crawling example using Javascript, Ruby, and Python
+- [natsmtls1](//github.com/kokizzu/natsmtls1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/natsmtls1?style=flat)](https://github.com/kokizzu/natsmtls1/stargazers) - example how to use NATS with mTLS
 - [pgx-pq-example](//github.com/kokizzu/pgx-pq-example) [![github stars badge](https://img.shields.io/github/stars/kokizzu/pgx-pq-example?style=flat)](https://github.com/kokizzu/pgx-pq-example/stargazers) - old pgx vs pg benchmark
 - [pglogrepl1](//github.com/kokizzu/pglogrepl1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/pglogrepl1?style=flat)](https://github.com/kokizzu/pglogrepl1/stargazers) - postgres wal log read example
 - [prunningRadixTrie](//github.com/kokizzu/prunningRadixTrie) [![github stars badge](https://img.shields.io/github/stars/kokizzu/prunningRadixTrie?style=flat)](https://github.com/kokizzu/prunningRadixTrie/stargazers) - prunning radix trie converted from C# version using ChatGPT
 - [rabbit1](//github.com/kokizzu/rabbit1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/rabbit1?style=flat)](https://github.com/kokizzu/rabbit1/stargazers) - rabbitmq example
-- [sveltefiber](//github.com/kokizzu/sveltefiber) [![github stars badge](https://img.shields.io/github/stars/kokizzu/sveltefiber?style=flat)](https://github.com/kokizzu/sveltefiber/stargazers) - fiber, svelte-mpa example
-- [terraform1](//github.com/kokizzu/terraform1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/terraform1?style=flat)](https://github.com/kokizzu/terraform1/stargazers) - terraform, kubernetes, keda, prometheus autoscaling example
+- [sveltefiber](//github.com/kokizzu/sveltefiber) [![github stars badge](https://img.shields.io/github/stars/kokizzu/sveltefiber?style=flat)](https://github.com/kokizzu/sveltefiber/stargazers) - fiber, Svelte-MPA example
+- [terraform1](//github.com/kokizzu/terraform1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/terraform1?style=flat)](https://github.com/kokizzu/terraform1/stargazers) - Terraform, Kubernetes, KEDA, Prometheus autoscaling example
 - [vault1](//github.com/kokizzu/vault1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/vault1?style=flat)](https://github.com/kokizzu/vault1/stargazers) - vault, golang example
 
 # :dragon_face: Visitors
