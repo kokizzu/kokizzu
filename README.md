@@ -96,7 +96,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [sveltefiber](//github.com/kokizzu/sveltefiber) [![github stars badge](https://img.shields.io/github/stars/kokizzu/sveltefiber?style=flat)](https://github.com/kokizzu/sveltefiber/stargazers) - fiber, Svelte-MPA example
 - [terraform1](//github.com/kokizzu/terraform1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/terraform1?style=flat)](https://github.com/kokizzu/terraform1/stargazers) - Terraform, Kubernetes, KEDA, Prometheus autoscaling example
 - [vault1](//github.com/kokizzu/vault1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/vault1?style=flat)](https://github.com/kokizzu/vault1/stargazers) - vault, golang example
-- [vaultdist1](//github.com/kokizzu/vaultdist1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/vaultdist1?style=flat)](https://github.com/kokizzu/vaultdist1/stargazers) - another vault example for storing dnskey
+- [vaultdist1](//github.com/kokizzu/vaultdist1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/vaultdist1?style=flat)](https://github.com/kokizzu/vaultdist1/stargazers) - another vault example for storing dnskey, with and without custom vault plugin
 
 # :dragon_face: Visitors
   <img src="https://profile-counter.glitch.me/kokizzu/count.svg" />
