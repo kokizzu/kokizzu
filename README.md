@@ -4,7 +4,7 @@
     <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 </a>
 
-Isometric view of contributions in the last year. Languages pie is based on recent commits
+Isometric view of contributions in the last year. Languages pie is based on recent commits. Greener pic from 13rd Oct (before the company moved) [here](//raw.githubusercontent.com/kokizzu/kokizzu/1f9cb8e7c8c6c5712c22b13024a8296c5245f6e1/profile-3d-contrib/profile-night-green.svg)
 
 # :pencil2: Latest Blog Posts
 
