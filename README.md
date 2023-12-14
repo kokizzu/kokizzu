@@ -76,6 +76,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [svelte-mpa](//github.com/kokizzu/svelte-mpa) [![github stars badge](https://img.shields.io/github/stars/kokizzu/svelte-mpa?style=flat)](https://github.com/kokizzu/svelte-mpa/stargazers) - Svelte multipage application starter project
 - [uadeco](//github.com/kokizzu/uadeco) [![github stars badge](https://img.shields.io/github/stars/kokizzu/uadeco?style=flat)](https://github.com/kokizzu/uadeco/stargazers) - simple net/http user-agent decorator
 - [yamlflatten](//github.com/kokizzu/yamlflatten) [![github stars badge](https://img.shields.io/github/stars/kokizzu/yamlflatten?style=flat)](https://github.com/kokizzu/yamlflatten/stargazers) - flatten YAML tree into HCL/JSON-query lines
+- [yamlsort](//github.com/kokizzu/yamlsort) [![github stars badge](https://img.shields.io/github/stars/kokizzu/yamlsort?style=flat)](https://github.com/kokizzu/yamlsort/stargazers) - sort YAML and remove comments
 
 # 🥈 Simple Examples
 - [bqEmu1](//github.com/kokizzu/bqEmu1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/bqEmu1?style=flat)](https://github.com/kokizzu/bqEmu1/stargazers) - BigQuery emulator example
