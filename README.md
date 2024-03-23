@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clickhouse in Kubernetes / Minikube using Bitnami Helm Charts](https://kokizzu.blogspot.com/2024/03/clickhouse-in-kubernetes-minikube-using.html)
 - [Dump/export Cassandra/BigQuery tables and import to Clickhouse](https://kokizzu.blogspot.com/2024/02/dump-cassandrabigquery-and-import-to.html)
 - [Writing UDF for Clickhouse using Golang](https://kokizzu.blogspot.com/2024/02/writing-udf-for-clickhouse-using-golang.html)
 - [OLLAMA with AMD GPU &lpar;ROCm&rpar;](https://kokizzu.blogspot.com/2024/01/ollama-with-amd-gpu-rocm.html)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Lua Tutorial, Example, Cheatsheet](https://kokizzu.blogspot.com/2023/02/lua-tutorial-example-cheatsheet.html)
 - [CockroachDB Benchmark on Different Disk Types](https://kokizzu.blogspot.com/2022/12/cockroachdb-benchmark-on-different-disk.html)
 - [Map to Struct and Struct to Map Golang Benchmark 2022 Edition](https://kokizzu.blogspot.com/2022/12/map-to-struct-and-struct-to-map-golang.html)
-- [Getting started with InfluxDB](https://kokizzu.blogspot.com/2022/09/getting-started-with-influxdb.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
