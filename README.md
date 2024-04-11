@@ -63,6 +63,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # 🥇 Featured Projects
 
 - [ch-timed-buffer](//github.com/kokizzu/ch-timed-buffer) [![github stars badge](https://img.shields.io/github/stars/kokizzu/ch-timed-buffer?style=flat)](https://github.com/kokizzu/ch-timed-buffer/stargazers) - Clickhouse insert buffer library for Go
+- [fanin](//github.com/kokizzu/fanin) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fanin?style=flat)](https://github.com/kokizzu/fanin/stargazers) - simple goroutine fan-in synchronization library
 - [goproc](//github.com/kokizzu/goproc) [![github stars badge](https://img.shields.io/github/stars/kokizzu/goproc?style=flat)](https://github.com/kokizzu/goproc/stargazers) - process runner library for Go
 - [gotro](//github.com/kokizzu/gotro) [![github stars badge](https://img.shields.io/github/stars/kokizzu/gotro?style=flat)](https://github.com/kokizzu/gotro/stargazers) - collection of Go helper libraries and web framework
 - [hugedbbench](//github.com/kokizzu/hugedbbench) [![github stars badge](https://img.shields.io/github/stars/kokizzu/hugedbbench?style=flat)](https://github.com/kokizzu/hugedbbench/stargazers) - collection of database benchmarks
