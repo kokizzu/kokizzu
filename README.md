@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Google Pub/Sub Locally with Golang](https://kokizzu.blogspot.com/2024/06/how-to-use-google-pubsub-locally-with-go.html)
 - [Backup and Restore Cassandra Database for Development](https://kokizzu.blogspot.com/2024/06/backup-and-restore-cassandra-database.html)
 - [Clickhouse in Kubernetes / Minikube using Bitnami Helm Charts](https://kokizzu.blogspot.com/2024/03/clickhouse-in-kubernetes-minikube-using.html)
 - [Dump/export Cassandra/BigQuery tables and import to Clickhouse](https://kokizzu.blogspot.com/2024/02/dump-cassandrabigquery-and-import-to.html)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [GeoSearch Database Benchmark](https://kokizzu.blogspot.com/2023/04/geosearch-database-benchmark.html)
 - [How to use DNS SDK in Golang](https://kokizzu.blogspot.com/2023/04/how-to-use-dns-sdk-in-golang.html)
 - [Lua Tutorial, Example, Cheatsheet](https://kokizzu.blogspot.com/2023/02/lua-tutorial-example-cheatsheet.html)
-- [CockroachDB Benchmark on Different Disk Types](https://kokizzu.blogspot.com/2022/12/cockroachdb-benchmark-on-different-disk.html)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
