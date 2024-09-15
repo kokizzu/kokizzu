@@ -86,6 +86,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [dns1](//github.com/kokizzu/dns1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/dns1?style=flat)](https://github.com/kokizzu/dns1/stargazers) - dns manipulation example
 - [echogorm1](//github.com/kokizzu/echogorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/echogorm1?style=flat)](https://github.com/kokizzu/echogorm1/stargazers) - echo, MySQL, gorm example
 - [fiber1](//github.com/kokizzu/fiber1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiber1?style=flat)](https://github.com/kokizzu/fiber1/stargazers) - fiber, MySQL, dockertest, autogold example
+- [fibercrdb](//github.com/kokizzu/fibercrdb) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fibercrdb?style=flat)](https://github.com/kokizzu/fibercrdb/stargazers) - fiber, CockroachDB, pgxpool, air, goose
 - [fibermtls1](//github.com/kokizzu/fibermtls1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fibermtls1?style=flat)](https://github.com/kokizzu/fibermtls1/stargazers) - fiber and mTLS example
 - [fiberpgx1](//github.com/kokizzu/fiberpgx1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiberpgx1?style=flat)](https://github.com/kokizzu/fiberpgx1/stargazers) - fiber, PostgreSQL, pgx example
 - [gingorm1](//github.com/kokizzu/gingorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/gingorm1?style=flat)](https://github.com/kokizzu/gingorm1/stargazers) - Gin, MySQL, gorm example
