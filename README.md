@@ -83,6 +83,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # 🥈 Simple Examples
 - [bqEmu1](//github.com/kokizzu/bqEmu1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/bqEmu1?style=flat)](https://github.com/kokizzu/bqEmu1/stargazers) - BigQuery emulator example
 - [clickhouse1](//github.com/kokizzu/clickhouse1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/clickhouse1?style=flat)](https://github.com/kokizzu/clickhouse1/stargazers) - Clickhouse insert buffering example
+- [cookietest](//github.com/kokizzu/cookietest) [![github stars badge](https://img.shields.io/github/stars/kokizzu/cookietest?style=flat)](https://github.com/kokizzu/cookietest/stargazers) - test httpOnly secure cookie across subdomain
 - [dns1](//github.com/kokizzu/dns1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/dns1?style=flat)](https://github.com/kokizzu/dns1/stargazers) - dns manipulation example
 - [echogorm1](//github.com/kokizzu/echogorm1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/echogorm1?style=flat)](https://github.com/kokizzu/echogorm1/stargazers) - echo, MySQL, gorm example
 - [fiber1](//github.com/kokizzu/fiber1) [![github stars badge](https://img.shields.io/github/stars/kokizzu/fiber1?style=flat)](https://github.com/kokizzu/fiber1/stargazers) - fiber, MySQL, dockertest, autogold example
